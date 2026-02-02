@@ -1,6 +1,6 @@
 # projeto_perguntas
 
-A new Flutter project.
+Projeto simples de perguntas, pontuação e reinicio.
 
 ## Getting Started
 
