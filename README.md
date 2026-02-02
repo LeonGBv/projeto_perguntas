@@ -1,4 +1,4 @@
-# projeto_perguntas
+# Projeto Perguntas
 
 Projeto simples de perguntas, pontuação e reinicio.
 
